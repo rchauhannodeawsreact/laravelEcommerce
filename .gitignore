@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production.backup
+.phpunit.result.cache
+Dockerfile
+docker-compose.yml
+.DS_Store
+PIDL.pem
+/.vscode
+/.idea
+*.log
